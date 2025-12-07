@@ -8,6 +8,7 @@ SOURCE_VIDEO_PATH = "vehicles.mp4"
 TARGET_VIDEO_PATH = "result.mp4"
 DISPLAY_WIDTH = 1024
 
+
 # Vidéo originale (modifier selon votre vidéo)
 VIDEO_WIDTH = 3840
 VIDEO_HEIGHT = 2160
